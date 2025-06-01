@@ -49,7 +49,7 @@ y = np.array([2, 4, 5, 7, 8, 8, 9, 10, 11, 12])
 """**BAR GRAPH**"""
 
 values = [5, 6, 3, 7, 2]
-names  = ["A", "B", "C", "D", "E"]
+
 
 # Create bar graph using the above two variables and include the necessary parameters
 
